@@ -1,0 +1,6 @@
+{
+  "name": "DelayHost 2 - Audio Plugin UI Studio",
+  "description": "Professional VST plugin skinning workbench, knob and slider architect, procedural texture generator, and JUCE C++ / XML layout exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
